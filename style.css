@@ -95,7 +95,8 @@ section#about {
   background-image: url("./images/mobile_intro_bg.png");
   background-size: cover;
   background-repeat: no-repeat;
-  background-size: 100%;
+
+  /* background-size: 100%; */
   background-position: center top;
 }
 
